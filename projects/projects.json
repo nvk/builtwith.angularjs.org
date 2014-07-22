@@ -4,7 +4,7 @@
   {
     "name": "Bitcoin ATM",
     "thumb": "bitcoin-atm/thumb.png",
-    "desc": "Bitcoin ATM Example in Angular.js using Coinkite API",
+    "desc": "Bitcoin ATM example in Angular.js using Coinkite API",
     "url": "http://coinkite.github.io/coinkite-bitcoin-atm/",
     "submitter": "nvk",
     "submissionDate": "2014-07-22",
