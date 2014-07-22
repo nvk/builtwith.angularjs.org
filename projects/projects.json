@@ -2,6 +2,48 @@
   "featured": "YouTube on PS3",
   "projects": [
   {
+    "name": "Bitcoin ATM",
+    "thumb": "bitcoin-atm/thumb.png",
+    "desc": "Bitcoin ATM Example in Angular.js using Coinkite API",
+    "url": "http://coinkite.github.io/coinkite-bitcoin-atm/",
+    "submitter": "nvk",
+    "submissionDate": "2014-07-22",
+    "tags": [
+      "Live Demo"
+      "Finance"
+      "Bitcoin API",
+      "Coinkite",
+      "No jQuery"
+      "Open Source"
+      "json",
+      "restangular",
+      "loadash",
+      "crypto-js","HMAC-SHA256",
+      "json-print"
+    ]
+  },
+   {
+    "name": "API Browser",
+    "thumb": "api-browser/thumb.png",
+    "desc": "Easier way to browse and understand our API",
+    "url": "http://coinkite.github.io/coinkite-angular/",
+    "submitter": "nvk",
+    "submissionDate": "2014-07-22",
+    "tags": [
+      "Demo"
+      "Productivity"
+      "Bitcoin API",
+      "Coinkite",
+	  "No jQuery"
+	  "Open Source"
+      "json",
+      "restangular",
+      "loadash",
+      "crypto-js",
+      "json-print"
+    ]
+  },
+  {
     "name": "APWGL",
     "thumb": "apwgl/thumb.png",
     "desc": "Fan made ARTPOP WebGL App. Renders WebGL to Gif.",
